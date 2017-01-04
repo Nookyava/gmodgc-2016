@@ -10,3 +10,6 @@
 [submodule "assassins"]
 	path = assassins
 	url = https://github.com/Luabee/assassins
+[submodule "Infestation"]
+	path = Infestation
+	url = https://github.com/MrBootsHD/Infestation
