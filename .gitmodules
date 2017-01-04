@@ -7,3 +7,6 @@
 [submodule "Sacrifun"]
 	path = Sacrifun
 	url = https://github.com/Zet0rz/Sacrifun
+[submodule "assassins"]
+	path = assassins
+	url = https://github.com/Luabee/assassins
