@@ -1,3 +1,6 @@
 [submodule "microcosm"]
 	path = microcosm
 	url = https://github.com/birdbrainswagtrain/microcosm/
+[submodule "garrysmod-chestburster"]
+	path = garrysmod-chestburster
+	url = https://github.com/Demonkush/garrysmod-chestburster
