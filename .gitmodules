@@ -13,3 +13,6 @@
 [submodule "Infestation"]
 	path = Infestation
 	url = https://github.com/MrBootsHD/Infestation
+[submodule "gm_acceleration"]
+	path = gm_acceleration
+	url = https://github.com/BlueStone-Tech-Enterprises/gm_acceleration
