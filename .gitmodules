@@ -4,3 +4,6 @@
 [submodule "garrysmod-chestburster"]
 	path = garrysmod-chestburster
 	url = https://github.com/Demonkush/garrysmod-chestburster
+[submodule "Sacrifun"]
+	path = Sacrifun
+	url = https://github.com/Zet0rz/Sacrifun
